@@ -8,14 +8,6 @@ https://ncdrisc.org/downloads/bmi/NCD_RisC_Lancet_2017_BMI_age_standardised_coun
 
 ## How to install bmiviz
 
-### Install libraries
-
-$ pip install numpy
-
-$ pip install pandas
-
-$ pip install matplotlib
-
 ### Install bmiviz
 
 $ pip install bmiviz
