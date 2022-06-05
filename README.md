@@ -6,19 +6,19 @@ It scrapes the following CSV file to obtain BMI data.
 
 https://ncdrisc.org/downloads/bmi/NCD_RisC_Lancet_2017_BMI_age_standardised_country.csv
 
-# How to install bmiviz
+## How to install bmiviz
 
 $ pip install bmiviz
 
 
-# How to run bmiviz
+## How to run bmiviz
 
-## Visualising BMI data
+### Visualising BMI data
 
 $ bmiviz Japan
 
 <img src=https://github.com/MDchor/BMI-visualisation/raw/main/Japan.png>
 
-## Showing available countries
+### Showing available countries
 
 $ bmiviz
