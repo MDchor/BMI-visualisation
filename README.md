@@ -17,6 +17,8 @@ $ pip install "PyPI package name"
 
 $ "PyPI package name" Japan
 
+<img src=https://github.com/MDchor/BMI-visualisation/raw/main/Japan.png>
+
 ## Showing available countries
 
 $ "PyPI package name"
