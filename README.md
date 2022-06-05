@@ -1,6 +1,6 @@
 # BMI-visualisation
 
-bmiviz is a tool that visualize transition and composition ratio of adults' BMI in each country. 
+bmiviz is a tool that visualize transition and composition ratio of adults' BMI (body mess index) in each country. 
 
 It scrapes the following CSV file to obtain BMI data.
 
