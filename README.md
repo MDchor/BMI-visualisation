@@ -13,12 +13,12 @@ $ pip install bmiviz
 
 ## How to run bmiviz
 
-### Visualising BMI data
+### Visualize BMI data
 
 $ bmiviz Japan
 
 <img src=https://github.com/MDchor/BMI-visualisation/raw/main/Japan.png>
 
-### Showing available countries
+### Show available countries
 
 $ bmiviz
