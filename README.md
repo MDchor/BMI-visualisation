@@ -1,5 +1,7 @@
 # BMI-visualisation
 
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/0273700/tree/v1)
+
 bmiviz is a tool that visualize transition and composition ratio of adults' BMI (body mass index) in each country. 
 
 It scrapes the following CSV file (9.3 MB) to obtain BMI data.
